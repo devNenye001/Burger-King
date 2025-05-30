@@ -1,0 +1,36 @@
+.contact-body{
+    padding: 60px;
+    font-family: "flame";
+    color: #714B3C;
+}
+
+.contact-body h1{
+    margin-top: 10px;
+    color: #502314;
+    font-size: 30px;
+    font-family: "flame-bold";
+}
+.contact-body pre{
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+/* allergies page styling */
+.allergens{
+    padding: 70px;
+    color: #714B3C;
+    width: 100vw;
+}
+.allergens pre{
+    font-family: "flame";
+    white-space: pre-wrap; 
+      word-wrap: break-word; 
+      width: auto; 
+      overflow-x: auto;
+}
+
+.allergens h1{
+    color: #502314;
+    font-size: 30px;
+}
+/* food quality page styling */

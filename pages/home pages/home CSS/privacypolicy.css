@@ -26,6 +26,9 @@
 .privacy-2-1{
    margin: 20px 0px;
 }
-.privacy-2-2{
-   line-height: 6.0;
+.privacy-2-2 pre{
+    white-space: pre-wrap; 
+    word-wrap: break-word; 
+    width: 100vw; 
+    overflow-x: auto;
 }
